@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Residential electrical service across Mira Loma and the Inland Empire. Alonso looks at the house first and puts the price in writing.';
+            'Residential electrical service in Mira Loma. Alonso looks at the house first and puts the price in writing.';
         }
       }
     },
