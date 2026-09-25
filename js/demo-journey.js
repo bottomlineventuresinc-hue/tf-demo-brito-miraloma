@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Residential electrical, panel upgrades, and wiring across Mira Loma, Jurupa, and the Inland Empire. You get a fixed itemised quote before we start, Alonso as your named lead on site, and a twelve-month workmanship guarantee when we leave.';
+            'Residential electrical service across Mira Loma and the Inland Empire. Alonso looks at the house first and puts the price in writing.';
         }
       }
     },
@@ -65,7 +65,7 @@
       id: 'h1',
       apply: function () {
         if (heroH) {
-          heroH.innerHTML = 'Panel work and wiring,<br>quoted <em>before</em> we start.';
+          heroH.innerHTML = 'Lights, outlets, and panels,<br>priced <em>first.</em>';
         }
       }
     },
@@ -73,7 +73,7 @@
       id: 'service',
       apply: function () {
         if (serviceFirst) {
-          serviceFirst.textContent = 'Residential electrical (written programme)';
+          serviceFirst.textContent = 'Lighting and fixtures (written price)';
         }
       }
     }

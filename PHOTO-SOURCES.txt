@@ -1,13 +1,20 @@
-PHOTO SOURCES — hs-047-brito Brito Electric (Wave 10 2026-09-24 PT)
-Commercial-ok Unsplash/Pexels (and prior Wave verified library). Verified by opening each file. No owner stock face.
+PHOTO SOURCES · hs-047-brito Brito Electric (CR 2026-09-25 PT rebuild)
+All CC0 / public domain (StockSnap, rawpixel CC0, WordPress Photos CC0, Flickr CC0/PDM via Openverse) or prior verified Wave library.
+Every file opened and checked for trade fit and job-label fit. No face is used or captioned as the owner or crew.
+Sample B/A photos are labeled on page as stock images typical of this kind of job.
 
-hero-site.jpg — residential electrical panel / breaker work (verified; not camcorder/welder/high-rise)
-services-trade.jpg — panel services (verified; rotated per lead for distinct heroes)
-job041-* — panel B/A typical of this kind of job (verified prior-wave library)
-job-elec-* — outdoor enclosure service set (verified)
-job052-* — circuit/tools typical of this kind of job (verified)
-people-* — tools/toolbox/crew jobsite — NOT owner face
-coverage-house.jpg — CA-style residential exterior (verified)
-Rejected: stock face electrician portrait — not used as owner
-Sources: Wave5–7 + prior Wave verified library 2026-09-24 PT
-Note: not britoelectric.com (unrelated FL EC); distinct from Del S plumbing same city
+hero-site.jpg <- cr0925/elec-fan-white.jpg : A ceiling fan with three dark blades is mounted on a decorative white ceiling ro (wordpress CC0 https://wordpress.org/photos/photo/315681c3cd/)
+services-trade.jpg <- wave11/elec-breakers-probe.jpg : breaker panel tested with a probe (StockSnap CC0 81EG7NOR4G)
+people-crew.jpg <- wave11/elec-tool-wall.jpg : wall of hand tools (prior verified library wave5/elec-wire-d.jpg)
+people-marek.jpg <- cr0925/elec-fan-lit.jpg : Ceiling fan light (rawpixel CC0 https://www.rawpixel.com/image/6039706/photo-image-background-texture-light)
+people-tom.jpg <- wave11/elec-wire-colors.jpg : colored wire ends (rawpixel CC0 5924439)
+coverage-house.jpg <- wave11/house-dusk.jpg : two-story suburban home at dusk (StockSnap CC0 LJ515CPAKI)
+elec-rough-box.jpg <- cr0925/elec-rough-box.jpg : 20220129-RD-LSC-0065 (flickr PDM https://www.flickr.com/photos/41284017@N08/51849999359)
+elec-pendant-cage.jpg <- cr0925/elec-pendant-cage.jpg : A black metal pendant light fixture with a round cage design hangs from the ceil (wordpress CC0 https://wordpress.org/photos/photo/1386901ded/)
+elec-meter-cabinet.jpg <- wave11/elec-meter-cabinet.jpg : meter and breaker cabinet (Flickr PDM 49514987902)
+elec-breakers-row.jpg <- wave11/elec-breakers-row.jpg : row of breakers with wiring (StockSnap CC0 6Y6VEZPDC1)
+elec-wires-wallbox.jpg <- wave11/elec-wires-wallbox.jpg : wires pulled through a wall opening (StockSnap CC0 NTBTAJYIOK)
+elec-switch-wall.jpg <- cr0925/elec-switch-wall.jpg : Light Switch (stocksnap CC0 https://stocksnap.io/photo/light-switch-GCFFRMA9VR)
+
+Replaced from the prior build: all photos (prior library had mislabeled trade images and stock faces).
+Note: britoelectric.com is an unrelated South Florida contractor; NOT linked or offered. Distinct from hs-048 Del S Plumbing (same city).
